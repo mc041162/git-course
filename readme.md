@@ -1,4 +1,4 @@
-test file
+test spam merge conflict file
 
 feature a
 
